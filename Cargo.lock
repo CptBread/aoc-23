@@ -18,6 +18,7 @@ dependencies = [
 [[package]]
 name = "aoc_util"
 version = "0.1.0"
+source = "git+https://github.com/CptBread/aoc-util#3320eeffdfe5bc9cf19b30ef33369e39a544ceeb"
 dependencies = [
  "vek",
 ]
